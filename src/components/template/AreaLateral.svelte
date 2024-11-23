@@ -11,9 +11,9 @@
   </Menu>
 
   <Menu titulo="Principais Autores">
-    <MenuItem texto="J.K Rowling" link="/"/>
-    <MenuItem texto="J.R.R. Tolkien" link="/"/>
-    <MenuItem texto="George R.R. Martin" link="/autores/george-martin"/>
+    <MenuItem texto="J.K Rowling" link="/autores/j-k-rowling"/>
+    <MenuItem texto="J.R.R. Tolkien" link="/autores/j-r-r-tolkien"/>
+    <MenuItem texto="George R.R. Martin" link="/autores/george-r-r-martin"/>
   </Menu>
 
   <Menu titulo="Outras Categorias">
