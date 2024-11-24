@@ -1,4 +1,5 @@
 <script lang="ts">
+  import {IconBrandAmazon} from "@tabler/icons-svelte"
   export let livro: any = null;
 </script>
 
@@ -8,7 +9,8 @@
     <div class="flex-1 flex flex-col p-5 gap-2">
       <span class="flex-1 font-bold text-center">{livro.titulo}</span>
       <button class="botao azul">
-        Link do Livro
+        <IconBrandAmazon size={25}/>
+        <span>Link do Livro</span>
       </button>
     </div>
   </a>
